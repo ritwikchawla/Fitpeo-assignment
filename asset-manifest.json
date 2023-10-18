@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fitpeo-assignment/static/css/main.d20fbfca.css",
+    "main.js": "/Fitpeo-assignment/static/js/main.9899b71e.js",
+    "index.html": "/Fitpeo-assignment/index.html",
+    "main.d20fbfca.css.map": "/Fitpeo-assignment/static/css/main.d20fbfca.css.map",
+    "main.9899b71e.js.map": "/Fitpeo-assignment/static/js/main.9899b71e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d20fbfca.css",
+    "static/js/main.9899b71e.js"
+  ]
+}
